@@ -19,5 +19,3 @@ Throughout my career, I've embraced innovative problem-solving, leveraging creat
 My passion for software engineering remains unwavering, and I'm determined to continually expand my skill set. With valuable hands-on experience, I'm eager to collaborate with forward-thinking companies to drive innovation in the field.
 
 Let's connect and create something amazing together! 😄
-
-⚡ Fun Fact: I'm a tech enthusiast by day and a [hobbyist photographer](https://www.instagram.com/yourphotographyhandle/) by night.
