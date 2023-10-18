@@ -12,6 +12,8 @@ I'm SanGeeth, a passionate Software Engineer with a knack for solving complex pr
 
 #### About Me
 
+![San-Geeth's github stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true)
+
 As an accomplished Software Engineer, I've been on a remarkable journey since graduating from the University of Bedfordshire. My academic background has equipped me with a strong foundation and the adaptability needed to thrive in the ever-evolving tech landscape.
 
 Throughout my career, I've embraced innovative problem-solving, leveraging creative solutions to overcome challenges. My commitment to well-organized approaches has consistently led me to achieve my goals.
