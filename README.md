@@ -1,4 +1,4 @@
-![Software Engineer Banner](https://www.emertxe.com/wp-content/uploads/2017/12/scripting-vs-programming.jpg)
+![Software Engineer Banner](https://github.com/San-Geeth/San-Geeth/blob/main/profile.gif)
 
 ### Hi there! I am Sangeeth Here 👋 
 [![Linkedin: Sangeeth](https://img.shields.io/badge/-Sangeeth-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sangeeth-nawarathna-34b7661b2/)](https://www.linkedin.com/in/sangeeth-nawarathna-34b7661b2/)
