@@ -1,6 +1,6 @@
 ![Software Engineer Banner](https://www.emertxe.com/wp-content/uploads/2017/12/scripting-vs-programming.jpg)
 
-### Hi there! 👋
+### Hi there! 👋 
 
 I'm SanGeeth, a passionate Software Engineer with a knack for solving complex problems and driving innovation. 🚀
 
@@ -11,8 +11,6 @@ I'm SanGeeth, a passionate Software Engineer with a knack for solving complex pr
 📫 You can reach me at [sangeethnawa@gmail.com](mailto:sangeethnawa@gmail.com).
 
 #### About Me
-
-![San-Geeth's github stats](https://github-readme-stats.vercel.app/api?username=San-Geeth&show_icons=true&hide_border=true)
 
 As an accomplished Software Engineer, I've been on a remarkable journey since graduating from the University of Bedfordshire. My academic background has equipped me with a strong foundation and the adaptability needed to thrive in the ever-evolving tech landscape.
 
