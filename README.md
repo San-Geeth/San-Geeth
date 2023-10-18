@@ -1,8 +1,8 @@
 ![Software Engineer Banner](https://www.emertxe.com/wp-content/uploads/2017/12/scripting-vs-programming.jpg)
 
-### Hi there! 👋 
-
-I'm SanGeeth, a passionate Software Engineer with a knack for solving complex problems and driving innovation. 🚀
+### Hi there! I am Sangeeth Here 👋 
+[![Linkedin: Sangeeth](https://img.shields.io/badge/-Sangeeth-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sangeeth-nawarathna-34b7661b2/)](https://www.linkedin.com/in/sangeeth-nawarathna-34b7661b2/)
+<hr>
 
 🔭 Currently, I'm working on pushing the boundaries of software engineering.
 🌱 I'm always learning and staying up-to-date with the latest technologies.
